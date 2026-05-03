@@ -6,7 +6,7 @@ LIVE DEMO
 
 Access the live application here:
 
-http://your-server-ip
+http://dynamic-server-ip
 
 
 TECH STACK
@@ -37,19 +37,19 @@ A custom Docker image is built using Nginx as the base image
 HOW TO RUN LOCALLY
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/BRUSNELLS/Dockerized-Nginx-Website-Deployment.git
 
 ### 2. Navigate into the project
-cd project-name
+cd prixel-project
 
 ### 3. Build the Docker image
-docker build -t mysite .
+docker build -t prixel-project .
 
 ### 4. Run the container
-docker run -d -p 80:80 mysite
+docker run -d -p 8080:80 prixel-container
 
 ### 5. Open in browser
-http://localhost
+http://www.johngraffman.store/
 
 
 NGINX CONFIGURATION
