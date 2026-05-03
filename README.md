@@ -6,7 +6,7 @@ LIVE DEMO
 
 Access the live application here:
 
-http://dynamic-server-ip
+http://www.johngraffman.store/
 
 
 TECH STACK
